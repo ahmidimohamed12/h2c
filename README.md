@@ -1,5 +1,5 @@
 # Project H2C 
-# NODEJS 
+# nodejs 
 * Node.js is an open source server environment
 * Node.js is free
 * Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
